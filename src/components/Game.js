@@ -126,7 +126,7 @@ function Game() {
                         </div>
                     ))}
                 </div>
-                {/* {game.gameWon && <div className="congrats-message">Congratulations {game.userName}, you won the game!</div>} */}
+                
             </div>
         </>
     );
