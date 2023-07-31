@@ -13,12 +13,12 @@ Este es un juego de memoria sencillo y divertido creado con React.
 
 1. Clona este repositorio en tu local:
 
-    git clone https://github.com/yourusername/react-memory-game.git
+    git clone https://github.com/yourusername/concentration-rg.git
  
 
 2. Navega a la carpeta del proyecto:
 
-    cd react-memory-game
+    cd concentration-rg
 
 
 3. Instala las dependencias del proyecto:
